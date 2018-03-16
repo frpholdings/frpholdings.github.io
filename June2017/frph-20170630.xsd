@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+    <!-- Field: Doc-Info; Name: Generator; Value: GoFiler Complete; Version: 4.19a -->
+    <!-- Field: Doc-Info; Name: VendorURI; Value: http://www.novaworks.co -->
+    <!-- Field: Doc-Info; Name: Source; Value: frph10qjun17.xfr; Date: 2017%2D08%2D08T19:17:25Z -->
+    <!-- Field: Doc-Info; Name: Status; Value: 0x80000000 -->
+    <!-- Field: Doc-Info; Name: Misc; Value: 96sps7xRiXhun8uMYHEsOauMuaOdwpN+qZkxvWd8bSna3yAmNPKlAitFxHeW8VsP -->
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:dei="http://xbrl.sec.gov/dei/2014-01-31" xmlns:us-gaap="http://fasb.org/us-gaap/2017-01-31" xmlns:us-roles="http://fasb.org/us-roles/2017-01-31" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:us-types="http://fasb.org/us-types/2017-01-31" xmlns:FRPH="http://frpholdings.com/20170630" elementFormDefault="qualified" targetNamespace="http://frpholdings.com/20170630">
+    <annotation>
+      <appinfo>
+	<link:roleType roleURI="http://frpholdings.com/role/DocumentAndEntityInformation" id="DocumentAndEntityInformation">
+	  <link:definition>00000001 - Document - Document and Entity Information</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BalanceSheets" id="BalanceSheets">
+	  <link:definition>00000002 - Statement - Consolidated Balance Sheets</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BalanceSheetsParenthetical" id="BalanceSheetsParenthetical">
+	  <link:definition>00000003 - Statement - Consolidated Balance Sheets (Parenthetical)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/StatementsOfIncome" id="StatementsOfIncome">
+	  <link:definition>00000004 - Statement - Consolidated Statements of Income</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/StatementsOfCashFlows" id="StatementsOfCashFlows">
+	  <link:definition>00000005 - Statement - Consolidated Statements of Cash Flows (Unaudited)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BasisOfPresentation" id="BasisOfPresentation">
+	  <link:definition>00000006 - Disclosure - Basis of Presentation</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/RecentlyIssuedAccountingStandards" id="RecentlyIssuedAccountingStandards">
+	  <link:definition>00000007 - Disclosure - Recently Issued Accounting Standards</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BusinessSegments" id="BusinessSegments">
+	  <link:definition>00000008 - Disclosure - Business Segments</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/RelatedPartyTransactions" id="RelatedPartyTransactions">
+	  <link:definition>00000009 - Disclosure - Related Party Transactions</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Long-termDebt" id="Long-termDebt">
+	  <link:definition>00000010 - Disclosure - Long-Term Debt</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/EarningsPerShare" id="EarningsPerShare">
+	  <link:definition>00000011 - Disclosure - Earnings per Share</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Stock-basedCompensationPlans" id="Stock-basedCompensationPlans">
+	  <link:definition>00000012 - Disclosure - Stock-Based Compensation Plans</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/ContingentLiabilities" id="ContingentLiabilities">
+	  <link:definition>00000013 - Disclosure - Contingent liabilities</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Concentrations" id="Concentrations">
+	  <link:definition>00000014 - Disclosure - Concentrations</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/FairValueMeasurements" id="FairValueMeasurements">
+	  <link:definition>00000015 - Disclosure - Fair Value Measurements</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/InvestmentInJointVentures" id="InvestmentInJointVentures">
+	  <link:definition>00000016 - Disclosure - Investment in Joint Ventures</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/SubsequentEvent" id="SubsequentEvent">
+	  <link:definition>00000017 - Disclosure - Subsequent Event</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BusinessSegmentsTables" id="BusinessSegmentsTables">
+	  <link:definition>00000018 - Disclosure - Business Segments (Tables)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Long-termDebtTables" id="Long-termDebtTables">
+	  <link:definition>00000019 - Disclosure - Long-Term Debt (Tables)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/EarningsPerShareTables" id="EarningsPerShareTables">
+	  <link:definition>00000020 - Disclosure - Earnings per Share (Tables)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Stock-basedCompensationPlansTables" id="Stock-basedCompensationPlansTables">
+	  <link:definition>00000021 - Disclosure - Stock-Based Compensation Plans (Tables)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/InvestmentInJointVenturesTables" id="InvestmentInJointVenturesTables">
+	  <link:definition>00000022 - Disclosure - Investment in Joint Ventures (Tables)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BusinessSegments-BusinessSegmentsDetails" id="BusinessSegments-BusinessSegmentsDetails">
+	  <link:definition>00000023 - Disclosure - Business Segments - Business segments (Details)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Long-termDebtDetails" id="Long-termDebtDetails">
+	  <link:definition>00000024 - Disclosure - Long-term debt (Details)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/EarningsPerShareDetails" id="EarningsPerShareDetails">
+	  <link:definition>00000025 - Disclosure - Earnings per share (Details)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/SummaryOfStockActivityDetails" id="SummaryOfStockActivityDetails">
+	  <link:definition>00000026 - Disclosure - Summary of Stock Activity (Details)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/StockCompensationExpenseDetails" id="StockCompensationExpenseDetails">
+	  <link:definition>00000027 - Disclosure - Stock Compensation Expense (Details)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/InvestmentsInJointVenturesDetails" id="InvestmentsInJointVenturesDetails">
+	  <link:definition>00000028 - Disclosure - Investments in Joint Ventures (Details)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/RecentlyIssuedAccountingStandardsDetailsNarrative" id="RecentlyIssuedAccountingStandardsDetailsNarrative">
+	  <link:definition>00000029 - Disclosure - Recently Issued Accounting Standards (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/BusinessSegmentsDetailsNarrative" id="BusinessSegmentsDetailsNarrative">
+	  <link:definition>00000030 - Disclosure - Business Segments (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/RelatedPartyTransactionsDetailsNarrative" id="RelatedPartyTransactionsDetailsNarrative">
+	  <link:definition>00000031 - Disclosure - Related Party Transactions (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Long-termDebtDetailsNarrative" id="Long-termDebtDetailsNarrative">
+	  <link:definition>00000032 - Disclosure - Long-Term debt (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/EarningsPerShareDetailsNarrative" id="EarningsPerShareDetailsNarrative">
+	  <link:definition>00000033 - Disclosure - Earnings per Share (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/Stock-basedCompensationPlansDetailsNarrative" id="Stock-basedCompensationPlansDetailsNarrative">
+	  <link:definition>00000034 - Disclosure - Stock-Based Compensation Plans (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/ContingentLiabilitiesDetailsNarrative" id="ContingentLiabilitiesDetailsNarrative">
+	  <link:definition>00000035 - Disclosure - Contingent Liabilities (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/ConcentrationsDetailsNarrative" id="ConcentrationsDetailsNarrative">
+	  <link:definition>00000036 - Disclosure - Concentrations (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/FairValueMeasurementsDetailsNarrative" id="FairValueMeasurementsDetailsNarrative">
+	  <link:definition>00000037 - Disclosure - Fair Value Measurements (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/InvestmentsInJointVenturesDetailsNarrative" id="InvestmentsInJointVenturesDetailsNarrative">
+	  <link:definition>00000038 - Disclosure - Investments in Joint Ventures (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:roleType roleURI="http://frpholdings.com/role/SubsequentEventDetailsNarrative" id="SubsequentEventDetailsNarrative">
+	  <link:definition>00000039 - Disclosure - Subsequent Event (Details Narrative)</link:definition>
+	  <link:usedOn>link:presentationLink</link:usedOn>
+	  <link:usedOn>link:calculationLink</link:usedOn>
+	  <link:usedOn>link:definitionLink</link:usedOn>
+	</link:roleType>
+	<link:linkbaseRef xlink:type="simple" xlink:href="frph-20170630_pre.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Presentation Links" />
+	<link:linkbaseRef xlink:type="simple" xlink:href="frph-20170630_lab.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Label Links" />
+	<link:linkbaseRef xlink:type="simple" xlink:href="frph-20170630_cal.xml" xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Calculation Links" />
+	<link:linkbaseRef xlink:type="simple" xlink:href="frph-20170630_def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:title="Definition Links" />
+      </appinfo>
+    </annotation>
+    <import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" />
+    <import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" />
+    <import namespace="http://xbrl.sec.gov/dei/2014-01-31" schemaLocation="http://xbrl.sec.gov/dei/2014/dei-2014-01-31.xsd" />
+    <import namespace="http://fasb.org/us-gaap/2017-01-31" schemaLocation="http://xbrl.fasb.org/us-gaap/2017/elts/us-gaap-2017-01-31.xsd" />
+    <import namespace="http://fasb.org/us-types/2017-01-31" schemaLocation="http://xbrl.fasb.org/us-gaap/2017/elts/us-types-2017-01-31.xsd" />
+    <import namespace="http://www.xbrl.org/dtr/type/non-numeric" schemaLocation="http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd" />
+    <import namespace="http://www.xbrl.org/dtr/type/numeric" schemaLocation="http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd" />
+    <element id="FRPH_LineOfCreditFacilityAgreementTerm" name="LineOfCreditFacilityAgreementTerm" nillable="true" xbrli:periodType="instant" type="xbrli:pureItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_LineOfCreditStandbyLettersOfCreditSublimit" name="LineOfCreditStandbyLettersOfCreditSublimit" nillable="true" xbrli:periodType="instant" xbrli:balance="credit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedPeriodForRecognition2" name="EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedPeriodForRecognition2" nillable="true" xbrli:periodType="duration" type="xbrli:decimalItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EmployeeServiceShareBasedCompensationGainsRealizedByOptionHolders" name="EmployeeServiceShareBasedCompensationGainsRealizedByOptionHolders" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ContingentLiabilitiesTextBlock" name="ContingentLiabilitiesTextBlock" nillable="true" xbrli:periodType="duration" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsOutstandingWeightedAverageRemainingContractualTerm3b" name="SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsOutstandingWeightedAverageRemainingContractualTerm3b" nillable="true" xbrli:periodType="instant" type="xbrli:decimalItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageGrantDateFairValue1" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageGrantDateFairValue1" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisedInPeriodWeightedAverageGrantDateFairValue" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisedInPeriodWeightedAverageGrantDateFairValue" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageGrantDateFairValue" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageGrantDateFairValue" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationCash" name="EquityMethodInvestmentSummarizedFinancialInformationCash" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationEscrowCash" name="EquityMethodInvestmentSummarizedFinancialInformationEscrowCash" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationInvestmentsinRealEstateNet" name="EquityMethodInvestmentSummarizedFinancialInformationInvestmentsinRealEstateNet" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationLongtermDebt" name="EquityMethodInvestmentSummarizedFinancialInformationLongtermDebt" nillable="true" xbrli:periodType="instant" xbrli:balance="credit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_SecondaryFinancing" name="SecondaryFinancing" nillable="true" xbrli:periodType="instant" xbrli:balance="credit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_AreaOfLandAcquired" name="AreaOfLandAcquired" nillable="true" xbrli:periodType="instant" type="num:areaItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_DeferredLeaseIntangibleNet" name="DeferredLeaseIntangibleNet" nillable="true" xbrli:periodType="instant" xbrli:balance="credit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_OperatingCostsDepreciationDepletionAmortization" name="OperatingCostsDepreciationDepletionAmortization" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_CostofRemediation" name="CostofRemediation" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_AreaofLandtoDevelop" name="AreaofLandtoDevelop" nillable="true" xbrli:periodType="instant" type="num:areaItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageGrantDateFairValue" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageGrantDateFairValue" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm3" name="SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm3" nillable="true" xbrli:periodType="instant" type="xbrli:decimalItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_OperatingProfitBeforeCorporateExpenses" name="OperatingProfitBeforeCorporateExpenses" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_RiverfrontHoldingsIncomeStatements" name="RiverfrontHoldingsIncomeStatements" nillable="true" xbrli:periodType="duration" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_SharebasedCompensationArrangementBySharebasedPaymentAwardFairValueAssumptionsExpectedTerm1Minimum" name="SharebasedCompensationArrangementBySharebasedPaymentAwardFairValueAssumptionsExpectedTerm1Minimum" nillable="true" xbrli:periodType="duration" type="xbrli:decimalItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_SharebasedCompensationArrangementBySharebasedPaymentAwardFairValueAssumptionsExpectedTerm1Maximum" name="SharebasedCompensationArrangementBySharebasedPaymentAwardFairValueAssumptionsExpectedTerm1Maximum" nillable="true" xbrli:periodType="duration" type="xbrli:decimalItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_NumberOfTenants" name="NumberOfTenants" nillable="true" xbrli:periodType="instant" type="xbrli:integerItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_StockOptionPlans" name="StockOptionPlans" nillable="true" xbrli:periodType="instant" type="xbrli:pureItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsModificationsInPeriodWeightedAverageExercisePrice" name="ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsModificationsInPeriodWeightedAverageExercisePrice" nillable="true" xbrli:periodType="duration" type="num:perShareItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsModifiededInPeriodWeightedAverageGrantDateFairValue" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsModifiededInPeriodWeightedAverageGrantDateFairValue" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationAccountsReceivable" name="EquityMethodInvestmentSummarizedFinancialInformationAccountsReceivable" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationPrepaidExpenses" name="EquityMethodInvestmentSummarizedFinancialInformationPrepaidExpenses" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_EquityMethodInvestmentSummarizedFinancialInformationAmortizableDebtCosts" name="EquityMethodInvestmentSummarizedFinancialInformationAmortizableDebtCosts" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_FairValueChangesInFairValueGainLoss1" name="FairValueChangesInFairValueGainLoss1" nillable="true" xbrli:periodType="duration" type="xbrli:stringItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_PercentLeasedAndOccupied" name="PercentLeasedAndOccupied" nillable="true" xbrli:periodType="instant" type="num:percentItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_CapitalContribution" name="CapitalContribution" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_LeaseholdInterest" name="LeaseholdInterest" nillable="true" xbrli:periodType="instant" type="num:areaItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ContributionofLand2" name="ContributionofLand2" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_AreaofLandContributed" name="AreaofLandContributed" nillable="true" xbrli:periodType="instant" type="num:areaItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_MiningTopCustomerMember" name="MiningTopCustomerMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_CommonweathAvenueMember" name="CommonweathAvenueMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_PatriotBusinessParkMember" name="PatriotBusinessParkMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_GulfHammockMember" name="GulfHammockMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_TransportationBusinessAcquisitionMember" name="TransportationBusinessAcquisitionMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_PatriotBusinessPark2Member" name="PatriotBusinessPark2Member" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_RiverfrontIJointVentureMember" name="RiverfrontIJointVentureMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_WindlassRunPhase2Member" name="WindlassRunPhase2Member" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_KelsoMember" name="KelsoMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_BrooksvilleJointVentureMember" name="BrooksvilleJointVentureMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_PatriotTransportationMember" name="PatriotTransportationMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_AssetManagement1Member" name="AssetManagement1Member" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_LandDevelopmentandConstructionMember" name="LandDevelopmentandConstructionMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_TotalSegmentsMember" name="TotalSegmentsMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_CombinedLandDevelopmentandConstructionandAssetManagementMember" name="CombinedLandDevelopmentandConstructionandAssetManagementMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_PatriotTransortationMember" name="PatriotTransortationMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_PortCapitalMember" name="PortCapitalMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_Dorsey7001Member" name="Dorsey7001Member" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_OregonCenterMember" name="OregonCenterMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_WellsFargoMember" name="WellsFargoMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_FirstTennesseeMember" name="FirstTennesseeMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_FirstTennesseeTermMember" name="FirstTennesseeTermMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_AssetManagementTopCustomerMember" name="AssetManagementTopCustomerMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_StJohnsPropertiesJointVenture_FRPMember" name="StJohnsPropertiesJointVenture_FRPMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_StJohnsMember" name="StJohnsMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_BCFRPRealtyJointVentureMember" name="BCFRPRealtyJointVentureMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_GilroyRoadBldgMember" name="GilroyRoadBldgMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_JointVenturesMember" name="JointVenturesMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_MRPMember" name="MRPMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_VulcanMember" name="VulcanMember" nillable="true" xbrli:periodType="duration" type="nonnum:domainItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_DocumentAndEntityInformationAbstract" name="DocumentAndEntityInformationAbstract" abstract="true" nillable="true" xbrli:periodType="duration" type="xbrli:stringItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_NotesToFinancialStatementsAbstract" name="NotesToFinancialStatementsAbstract" abstract="true" nillable="true" xbrli:periodType="duration" type="xbrli:stringItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsSpinOffConversionGross" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsSpinOffConversionGross" nillable="true" xbrli:periodType="duration" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsSpinOffConversionWeightedAverageExercisePrice" name="ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsSpinOffConversionWeightedAverageExercisePrice" nillable="true" xbrli:periodType="duration" type="num:perShareItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeitedInPeriodWeightedAverageGrantDateFairValue" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeitedInPeriodWeightedAverageGrantDateFairValue" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsSpinOffAdjustmentWeightedAverageGrantDateFairValue1" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsSpinOffAdjustmentWeightedAverageGrantDateFairValue1" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsSpinOffConversionWeightedAverageGrantDateFairValue1" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsSpinOffConversionWeightedAverageGrantDateFairValue1" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_InvestmentInRiverfrontAndBrooksvilleJointVenturesDetailsAbstract" name="InvestmentInRiverfrontAndBrooksvilleJointVenturesDetailsAbstract" abstract="true" nillable="true" xbrli:periodType="duration" type="xbrli:stringItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_RecentlyIssuedAccountingStandardsDetailsNarrativeAbstract" name="RecentlyIssuedAccountingStandardsDetailsNarrativeAbstract" abstract="true" nillable="true" xbrli:periodType="duration" type="xbrli:stringItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_ContingentLiabilitiesDetailsNarrativeAbstract" name="ContingentLiabilitiesDetailsNarrativeAbstract" abstract="true" nillable="true" xbrli:periodType="duration" type="xbrli:stringItemType" substitutionGroup="xbrli:item" />
+    <element id="FRPH_AreaOfLandContributedStJohn" name="AreaOfLandContributedStJohn" nillable="true" xbrli:periodType="instant" type="num:areaItemType" substitutionGroup="xbrli:item" />
+</schema>
