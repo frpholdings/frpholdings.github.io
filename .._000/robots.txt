@@ -1,0 +1,6 @@
+# Robots.txt file from http://www.00033im.rcomhost.com
+
+Sitemap: http://www.00033im.rcomhost.com/sitemap.xml
+
+User-agent: *
+Disallow:

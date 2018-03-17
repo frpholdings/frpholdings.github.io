@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="US-ASCII" standalone="no"?>
+    <!-- Field: Doc-Info; Name: Generator; Value: GoFiler Complete; Version: 4.1b -->
+    <!-- Field: Doc-Info; Name: VendorURI; Value: http://www.novaworks.co -->
+    <!-- Field: Doc-Info; Name: Source; Value: patrjunq14.xfr; Date: 2014%2D08%2D05T20:23:01 -->
+    <!-- Field: Doc-Info; Name: Status; Value: 0x80010000 -->
+<link:linkbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+    <link:roleRef roleURI="http://patriottrans.com/role/DocumentAndEntityInformation" xlink:href="patr-20140630.xsd#DocumentAndEntityInformation" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BalanceSheets" xlink:href="patr-20140630.xsd#BalanceSheets" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BalanceSheetsParenthetical" xlink:href="patr-20140630.xsd#BalanceSheetsParenthetical" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/StatementsOfOperations" xlink:href="patr-20140630.xsd#StatementsOfOperations" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/StatementsOfCashFlows" xlink:href="patr-20140630.xsd#StatementsOfCashFlows" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/StatementsOfCashFlowsParenthetical" xlink:href="patr-20140630.xsd#StatementsOfCashFlowsParenthetical" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BasisOfPresentation" xlink:href="patr-20140630.xsd#BasisOfPresentation" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/RecentAccountingPronouncements" xlink:href="patr-20140630.xsd#RecentAccountingPronouncements" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BusinessSegments" xlink:href="patr-20140630.xsd#BusinessSegments" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Long-TermDebt" xlink:href="patr-20140630.xsd#Long-TermDebt" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/EarningsPerShare" xlink:href="patr-20140630.xsd#EarningsPerShare" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Stock-BasedCompensationPlans" xlink:href="patr-20140630.xsd#Stock-BasedCompensationPlans" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/ContingentLiabiilites" xlink:href="patr-20140630.xsd#ContingentLiabiilites" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Concentrations" xlink:href="patr-20140630.xsd#Concentrations" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/FairValueMeasurements" xlink:href="patr-20140630.xsd#FairValueMeasurements" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/RealEstateHeldForSale" xlink:href="patr-20140630.xsd#RealEstateHeldForSale" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/UnusualOrInfrequentItemsImpactingQuarterlyResults" xlink:href="patr-20140630.xsd#UnusualOrInfrequentItemsImpactingQuarterlyResults" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/RiverfrontIJointVenture" xlink:href="patr-20140630.xsd#RiverfrontIJointVenture" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/TransportationBusinessAcquisition" xlink:href="patr-20140630.xsd#TransportationBusinessAcquisition" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/KelsoPropertyAcquisition" xlink:href="patr-20140630.xsd#KelsoPropertyAcquisition" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Spin-Off" xlink:href="patr-20140630.xsd#Spin-Off" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BusinessSegmentsTables" xlink:href="patr-20140630.xsd#BusinessSegmentsTables" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Long-TermDebtTables" xlink:href="patr-20140630.xsd#Long-TermDebtTables" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/EarningsPerShareTables" xlink:href="patr-20140630.xsd#EarningsPerShareTables" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Stock-BasedCompensationPlansTables" xlink:href="patr-20140630.xsd#Stock-BasedCompensationPlansTables" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/TransportationBusinessAcquisitionTables" xlink:href="patr-20140630.xsd#TransportationBusinessAcquisitionTables" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Long-TermDebtTables-Long-TermDebtDetails" xlink:href="patr-20140630.xsd#Long-TermDebtTables-Long-TermDebtDetails" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/EarningsPerShareTables-EarningsPerShareComputationsDetails" xlink:href="patr-20140630.xsd#EarningsPerShareTables-EarningsPerShareComputationsDetails" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Stock-BasedCompensationPlansTables-SummaryOfStockActivityDetails" xlink:href="patr-20140630.xsd#Stock-BasedCompensationPlansTables-SummaryOfStockActivityDetails" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Stock-BasedCompensationPlansTables-StockCompensationExpenseDetails" xlink:href="patr-20140630.xsd#Stock-BasedCompensationPlansTables-StockCompensationExpenseDetails" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/TransportationBusinessAcquisitionTables-TransportationBusinessAcquisitionDetails" xlink:href="patr-20140630.xsd#TransportationBusinessAcquisitionTables-TransportationBusinessAcquisitionDetails" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BusinessSegments-BusinessSegmentsDetails" xlink:href="patr-20140630.xsd#BusinessSegments-BusinessSegmentsDetails" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/BasisOfPresentationDetailsNarrative" xlink:href="patr-20140630.xsd#BasisOfPresentationDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Long-TermDebtDetailsNarrative" xlink:href="patr-20140630.xsd#Long-TermDebtDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/EarningsPerShareDetailsNarrative" xlink:href="patr-20140630.xsd#EarningsPerShareDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/Stock-BasedCompensationPlansDetailsNarrative" xlink:href="patr-20140630.xsd#Stock-BasedCompensationPlansDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/ContingentLiabilitiesDetailsNarrative" xlink:href="patr-20140630.xsd#ContingentLiabilitiesDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/ConcentrationsDetailsNarrative" xlink:href="patr-20140630.xsd#ConcentrationsDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/FairValueMeasurementsDetailsNarrative" xlink:href="patr-20140630.xsd#FairValueMeasurementsDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/RealEstateHeldForSaleDetailsNarrative" xlink:href="patr-20140630.xsd#RealEstateHeldForSaleDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/UnusualOrInfrequentItemsImpactingQuarterlyResultsDetailsNarrative" xlink:href="patr-20140630.xsd#UnusualOrInfrequentItemsImpactingQuarterlyResultsDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/RiverfrontIJointVentureDetailsNarrative" xlink:href="patr-20140630.xsd#RiverfrontIJointVentureDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/TransportationBusinessAcquisitionDetailsNarrative" xlink:href="patr-20140630.xsd#TransportationBusinessAcquisitionDetailsNarrative" xlink:type="simple" />
+    <link:roleRef roleURI="http://patriottrans.com/role/KelsoPropertyAcquisitionDetailsNarrative" xlink:href="patr-20140630.xsd#KelsoPropertyAcquisitionDetailsNarrative" xlink:type="simple" />
+    <link:arcroleRef xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" />
+    <link:arcroleRef xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" />
+    <link:arcroleRef xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:arcroleRef xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" arcroleURI="http://xbrl.org/int/dim/arcrole/all" />
+    <link:arcroleRef xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#notAll" arcroleURI="http://xbrl.org/int/dim/arcrole/notAll" />
+    <link:arcroleRef xlink:type="simple" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/DocumentAndEntityInformation" xlink:title="00000001 - Document - Document and Entity Information" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BalanceSheets" xlink:title="00000002 - Statement - Balance Sheets" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BalanceSheetsParenthetical" xlink:title="00000003 - Statement - Balance Sheets (Parenthetical)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/StatementsOfOperations" xlink:title="00000004 - Statement - Statements of Operations" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/StatementsOfCashFlows" xlink:title="00000005 - Statement - Statements of Cash Flows (Unaudited)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/StatementsOfCashFlowsParenthetical" xlink:title="00000006 - Statement - Statements of Cash Flows (Parenthetical)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BasisOfPresentation" xlink:title="00000007 - Disclosure - Basis of Presentation" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/RecentAccountingPronouncements" xlink:title="00000008 - Disclosure - Recent Accounting Pronouncements" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BusinessSegments" xlink:title="00000009 - Disclosure - Business Segments" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Long-TermDebt" xlink:title="00000010 - Disclosure - Long-Term Debt" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/EarningsPerShare" xlink:title="00000011 - Disclosure - Earnings per Share" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Stock-BasedCompensationPlans" xlink:title="00000012 - Disclosure - Stock-Based Compensation Plans" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/ContingentLiabiilites" xlink:title="00000013 - Disclosure - Contingent liabiilites" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Concentrations" xlink:title="00000014 - Disclosure - Concentrations" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/FairValueMeasurements" xlink:title="00000015 - Disclosure - Fair Value Measurements" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/RealEstateHeldForSale" xlink:title="00000016 - Disclosure - Real Estate Held for Sale" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/UnusualOrInfrequentItemsImpactingQuarterlyResults" xlink:title="00000017 - Disclosure - Unusual or Infrequent Items Impacting Quarterly Results" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/RiverfrontIJointVenture" xlink:title="00000018 - Disclosure - Riverfront I Joint Venture" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/TransportationBusinessAcquisition" xlink:title="00000019 - Disclosure - Transportation Business Acquisition" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/KelsoPropertyAcquisition" xlink:title="00000020 - Disclosure - Kelso Property Acquisition" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Spin-Off" xlink:title="00000021 - Disclosure - Spin-off" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BusinessSegmentsTables" xlink:title="00000022 - Disclosure - Business Segments (Tables)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Long-TermDebtTables" xlink:title="00000023 - Disclosure - Long-Term Debt (Tables)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/EarningsPerShareTables" xlink:title="00000024 - Disclosure - Earnings per Share (Tables)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Stock-BasedCompensationPlansTables" xlink:title="00000025 - Disclosure - Stock-Based Compensation Plans (Tables)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/TransportationBusinessAcquisitionTables" xlink:title="00000026 - Disclosure - Transportation Business Acquisition (Tables)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Long-TermDebtTables-Long-TermDebtDetails" xlink:title="00000027 - Disclosure - Long-Term Debt (Tables) - Long-term debt (Details)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/EarningsPerShareTables-EarningsPerShareComputationsDetails" xlink:title="00000028 - Disclosure - Earnings per Share (Tables) - Earnings per share computations (Details)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Stock-BasedCompensationPlansTables-SummaryOfStockActivityDetails" xlink:title="00000029 - Disclosure - Stock-Based Compensation Plans (Tables) - Summary of Stock Activity (Details)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Stock-BasedCompensationPlansTables-StockCompensationExpenseDetails" xlink:title="00000030 - Disclosure - Stock-Based Compensation Plans (Tables) - Stock Compensation Expense (Details)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/TransportationBusinessAcquisitionTables-TransportationBusinessAcquisitionDetails" xlink:title="00000031 - Disclosure - Transportation Business Acquisition (Tables) - Transportation Business Acquisition (Details)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BusinessSegments-BusinessSegmentsDetails" xlink:title="00000032 - Disclosure - Business Segments - Business segments (Details)">
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementLineItems" xlink:label="loc_us-gaapStatementLineItems" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementTable" xlink:label="loc_us-gaapStatementTable" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapStatementTable" xlink:type="arc" order="10" xbrldt:closed="true" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementBusinessSegmentsAxis" xlink:label="loc_us-gaapStatementBusinessSegmentsAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapStatementBusinessSegmentsAxis" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_SegmentDomain" xlink:label="loc_us-gaapSegmentDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapStatementBusinessSegmentsAxis" xlink:to="loc_us-gaapSegmentDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_SegmentDomain" xlink:label="loc_us-gaapSegmentDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementBusinessSegmentsAxis" xlink:to="loc_us-gaapSegmentDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_TransportationEquipmentMember" xlink:label="loc_us-gaapTransportationEquipmentMember_0" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapSegmentDomain" xlink:to="loc_us-gaapTransportationEquipmentMember_0" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_MiningPropertiesAndMineralRightsMember" xlink:label="loc_us-gaapMiningPropertiesAndMineralRightsMember_60" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapSegmentDomain" xlink:to="loc_us-gaapMiningPropertiesAndMineralRightsMember_60" xlink:type="arc" order="61" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstateMember" xlink:label="loc_us-gaapRealEstateMember_120" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapSegmentDomain" xlink:to="loc_us-gaapRealEstateMember_120" xlink:type="arc" order="121" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_CorporateMember" xlink:label="loc_us-gaapCorporateMember_180" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapSegmentDomain" xlink:to="loc_us-gaapCorporateMember_180" xlink:type="arc" order="181" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_SegmentReportingInformationLineItems" xlink:label="loc_us-gaapSegmentReportingInformationLineItems_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapSegmentReportingInformationLineItems_310" xlink:type="arc" order="2" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_Revenues" xlink:label="loc_us-gaapRevenues_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapRevenues_310" xlink:type="arc" order="3" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_OperatingIncomeLoss" xlink:label="loc_us-gaapOperatingIncomeLoss_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapOperatingIncomeLoss_310" xlink:type="arc" order="4" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_OtherGeneralAndAdministrativeExpense" xlink:label="loc_us-gaapOtherGeneralAndAdministrativeExpense_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapOtherGeneralAndAdministrativeExpense_310" xlink:type="arc" order="5" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_InterestExpense" xlink:label="loc_us-gaapInterestExpense_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapInterestExpense_310" xlink:type="arc" order="6" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_PropertyPlantAndEquipmentGrossPeriodIncreaseDecrease" xlink:label="loc_us-gaapPropertyPlantAndEquipmentGrossPeriodIncreaseDecrease_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapPropertyPlantAndEquipmentGrossPeriodIncreaseDecrease_310" xlink:type="arc" order="7" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_InterestCostsCapitalized" xlink:label="loc_us-gaapInterestCostsCapitalized_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapInterestCostsCapitalized_310" xlink:type="arc" order="8" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_OwnedPropertyManagementCosts" xlink:label="loc_us-gaapOwnedPropertyManagementCosts_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapOwnedPropertyManagementCosts_310" xlink:type="arc" order="9" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstateTaxExpense" xlink:label="loc_us-gaapRealEstateTaxExpense_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapRealEstateTaxExpense_310" xlink:type="arc" order="10" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_DepreciationDepletionAndAmortization" xlink:label="loc_us-gaapDepreciationDepletionAndAmortization_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapDepreciationDepletionAndAmortization_310" xlink:type="arc" order="11" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_IdentifiableAssets" xlink:label="loc_PATRIdentifiableAssets_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_PATRIdentifiableAssets_310" xlink:type="arc" order="12" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_CashAndCashEquivalentsAtCarryingValue" xlink:label="loc_us-gaapCashAndCashEquivalentsAtCarryingValue_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapCashAndCashEquivalentsAtCarryingValue_310" xlink:type="arc" order="13" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_Assets" xlink:label="loc_us-gaapAssets_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAssets_310" xlink:type="arc" order="14" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedPropertyPlantAndEquipment" xlink:label="loc_us-gaapBusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedPropertyPlantAndEquipment_310" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapBusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedPropertyPlantAndEquipment_310" xlink:type="arc" order="16" />
+    </link:definitionLink>
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/BasisOfPresentationDetailsNarrative" xlink:title="00000033 - Disclosure - Basis of Presentation (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Long-TermDebtDetailsNarrative" xlink:title="00000034 - Disclosure - Long-Term Debt (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/EarningsPerShareDetailsNarrative" xlink:title="00000035 - Disclosure - Earnings per Share (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/Stock-BasedCompensationPlansDetailsNarrative" xlink:title="00000036 - Disclosure - Stock-Based Compensation Plans (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/ContingentLiabilitiesDetailsNarrative" xlink:title="00000037 - Disclosure - Contingent Liabilities (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/ConcentrationsDetailsNarrative" xlink:title="00000038 - Disclosure - Concentrations (Details Narrative)">
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementLineItems" xlink:label="loc_us-gaapStatementLineItems" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementTable" xlink:label="loc_us-gaapStatementTable" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapStatementTable" xlink:type="arc" order="10" xbrldt:closed="true" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ConcentrationRiskByTypeAxis" xlink:label="loc_us-gaapConcentrationRiskByTypeAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapConcentrationRiskByTypeAxis" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ConcentrationRiskTypeDomain" xlink:label="loc_us-gaapConcentrationRiskTypeDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapConcentrationRiskByTypeAxis" xlink:to="loc_us-gaapConcentrationRiskTypeDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ConcentrationRiskTypeDomain" xlink:label="loc_us-gaapConcentrationRiskTypeDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapConcentrationRiskByTypeAxis" xlink:to="loc_us-gaapConcentrationRiskTypeDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_TransportationTopTenCustomersMember" xlink:label="loc_PATRTransportationTopTenCustomersMember_0" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapConcentrationRiskTypeDomain" xlink:to="loc_PATRTransportationTopTenCustomersMember_0" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_TransportationTopCustomerMember" xlink:label="loc_PATRTransportationTopCustomerMember_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapConcentrationRiskTypeDomain" xlink:to="loc_PATRTransportationTopCustomerMember_30" xlink:type="arc" order="31" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_MiningTopCustomerMember" xlink:label="loc_PATRMiningTopCustomerMember_40" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapConcentrationRiskTypeDomain" xlink:to="loc_PATRMiningTopCustomerMember_40" xlink:type="arc" order="41" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ConcentrationRiskPercentage1" xlink:label="loc_us-gaapConcentrationRiskPercentage1_70" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapConcentrationRiskPercentage1_70" xlink:type="arc" order="0" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_AccountsReceivableNet" xlink:label="loc_us-gaapAccountsReceivableNet_70" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAccountsReceivableNet_70" xlink:type="arc" order="1" />
+    </link:definitionLink>
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/FairValueMeasurementsDetailsNarrative" xlink:title="00000039 - Disclosure - Fair Value Measurements (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/RealEstateHeldForSaleDetailsNarrative" xlink:title="00000040 - Disclosure - Real Estate Held for Sale (Details Narrative)">
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementLineItems" xlink:label="loc_us-gaapStatementLineItems" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementTable" xlink:label="loc_us-gaapStatementTable" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapStatementTable" xlink:type="arc" order="10" xbrldt:closed="true" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_LongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:label="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_LongLivedAssetsHeldForSaleNameDomain" xlink:label="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:to="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_LongLivedAssetsHeldForSaleNameDomain" xlink:label="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:to="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_PatriotBusinessParkMember" xlink:label="loc_PATRPatriotBusinessParkMember_0" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain" xlink:to="loc_PATRPatriotBusinessParkMember_0" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_WindlassRunPhase2Member" xlink:label="loc_PATRWindlassRunPhase2Member_20" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain" xlink:to="loc_PATRWindlassRunPhase2Member_20" xlink:type="arc" order="21" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_RealEstateSalesContract" xlink:label="loc_PATRRealEstateSalesContract_50" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_PATRRealEstateSalesContract_50" xlink:type="arc" order="0" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_CostOfRealEstateSales" xlink:label="loc_us-gaapCostOfRealEstateSales_50" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapCostOfRealEstateSales_50" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_AreaOfLand" xlink:label="loc_us-gaapAreaOfLand_50" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAreaOfLand_50" xlink:type="arc" order="2" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_EscrowDeposit" xlink:label="loc_us-gaapEscrowDeposit_50" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapEscrowDeposit_50" xlink:type="arc" order="3" />
+    </link:definitionLink>
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/UnusualOrInfrequentItemsImpactingQuarterlyResultsDetailsNarrative" xlink:title="00000041 - Disclosure - Unusual or Infrequent Items Impacting Quarterly Results (Details Narrative)">
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementLineItems" xlink:label="loc_us-gaapStatementLineItems" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementTable" xlink:label="loc_us-gaapStatementTable" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapStatementTable" xlink:type="arc" order="10" xbrldt:closed="true" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesAxis" xlink:label="loc_us-gaapRealEstatePropertiesAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapRealEstatePropertiesAxis" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesDomain" xlink:label="loc_us-gaapRealEstatePropertiesDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapRealEstatePropertiesAxis" xlink:to="loc_us-gaapRealEstatePropertiesDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesDomain" xlink:label="loc_us-gaapRealEstatePropertiesDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapRealEstatePropertiesAxis" xlink:to="loc_us-gaapRealEstatePropertiesDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_CommonweathAvenueMember" xlink:label="loc_PATRCommonweathAvenueMember_0" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapRealEstatePropertiesDomain" xlink:to="loc_PATRCommonweathAvenueMember_0" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_LongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:label="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:type="arc" order="2" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_LongLivedAssetsHeldForSaleNameDomain" xlink:label="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:to="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_LongLivedAssetsHeldForSaleNameDomain" xlink:label="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapLongLivedAssetsHeldForSaleByAssetTypeAxis" xlink:to="loc_us-gaapLongLivedAssetsHeldForSaleNameDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ExtinguishmentOfDebtAxis" xlink:label="loc_us-gaapExtinguishmentOfDebtAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapExtinguishmentOfDebtAxis" xlink:type="arc" order="3" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ExtinguishmentOfDebtTypeDomain" xlink:label="loc_us-gaapExtinguishmentOfDebtTypeDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapExtinguishmentOfDebtAxis" xlink:to="loc_us-gaapExtinguishmentOfDebtTypeDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ExtinguishmentOfDebtTypeDomain" xlink:label="loc_us-gaapExtinguishmentOfDebtTypeDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapExtinguishmentOfDebtAxis" xlink:to="loc_us-gaapExtinguishmentOfDebtTypeDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_GainLossOnSaleOfProperties" xlink:label="loc_us-gaapGainLossOnSaleOfProperties_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapGainLossOnSaleOfProperties_30" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_CostOfRealEstateSales" xlink:label="loc_us-gaapCostOfRealEstateSales_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapCostOfRealEstateSales_30" xlink:type="arc" order="2" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ExtinguishmentOfDebtAmount" xlink:label="loc_us-gaapExtinguishmentOfDebtAmount_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapExtinguishmentOfDebtAmount_30" xlink:type="arc" order="3" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_MortgageLoansOnRealEstateInterestRate" xlink:label="loc_us-gaapMortgageLoansOnRealEstateInterestRate_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapMortgageLoansOnRealEstateInterestRate_30" xlink:type="arc" order="4" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_EarlyPrepaymentProvisionYears" xlink:label="loc_PATREarlyPrepaymentProvisionYears_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_PATREarlyPrepaymentProvisionYears_30" xlink:type="arc" order="5" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_PaymentsOfDebtExtinguishmentCosts" xlink:label="loc_us-gaapPaymentsOfDebtExtinguishmentCosts_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapPaymentsOfDebtExtinguishmentCosts_30" xlink:type="arc" order="6" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_WriteOffOfDeferredDebtIssuanceCost" xlink:label="loc_us-gaapWriteOffOfDeferredDebtIssuanceCost_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapWriteOffOfDeferredDebtIssuanceCost_30" xlink:type="arc" order="7" />
+    </link:definitionLink>
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/RiverfrontIJointVentureDetailsNarrative" xlink:title="00000042 - Disclosure - Riverfront I Joint Venture (Details Narrative)">
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementLineItems" xlink:label="loc_us-gaapStatementLineItems" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementTable" xlink:label="loc_us-gaapStatementTable" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapStatementTable" xlink:type="arc" order="10" xbrldt:closed="true" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesAxis" xlink:label="loc_us-gaapRealEstatePropertiesAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapRealEstatePropertiesAxis" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesDomain" xlink:label="loc_us-gaapRealEstatePropertiesDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapRealEstatePropertiesAxis" xlink:to="loc_us-gaapRealEstatePropertiesDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesDomain" xlink:label="loc_us-gaapRealEstatePropertiesDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapRealEstatePropertiesAxis" xlink:to="loc_us-gaapRealEstatePropertiesDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_RiverfrontIJointVentureMember" xlink:label="loc_PATRRiverfrontIJointVentureMember_0" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapRealEstatePropertiesDomain" xlink:to="loc_PATRRiverfrontIJointVentureMember_0" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_AreaOfRealEstateProperty" xlink:label="loc_us-gaapAreaOfRealEstateProperty_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAreaOfRealEstateProperty_30" xlink:type="arc" order="0" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_AreaOfRetailProperty" xlink:label="loc_PATRAreaOfRetailProperty_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_PATRAreaOfRetailProperty_30" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_AreaOfLand" xlink:label="loc_us-gaapAreaOfLand_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAreaOfLand_30" xlink:type="arc" order="2" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_EquityMethodInvestmentAggregateCost" xlink:label="loc_us-gaapEquityMethodInvestmentAggregateCost_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapEquityMethodInvestmentAggregateCost_30" xlink:type="arc" order="3" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_OtherOwnershipInterestsValue" xlink:label="loc_us-gaapOtherOwnershipInterestsValue_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapOtherOwnershipInterestsValue_30" xlink:type="arc" order="4" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ContributionOfProperty" xlink:label="loc_us-gaapContributionOfProperty_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapContributionOfProperty_30" xlink:type="arc" order="5" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_PaymentsToAcquireRealEstateAndRealEstateJointVentures" xlink:label="loc_us-gaapPaymentsToAcquireRealEstateAndRealEstateJointVentures_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapPaymentsToAcquireRealEstateAndRealEstateJointVentures_30" xlink:type="arc" order="6" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_EquityMethodInvestmentOwnershipPercentage" xlink:label="loc_us-gaapEquityMethodInvestmentOwnershipPercentage_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapEquityMethodInvestmentOwnershipPercentage_30" xlink:type="arc" order="7" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_ConstructionLoan" xlink:label="loc_us-gaapConstructionLoan_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapConstructionLoan_30" xlink:type="arc" order="8" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_EB5SecondaryFinancing" xlink:label="loc_PATREB5SecondaryFinancing_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_PATREB5SecondaryFinancing_30" xlink:type="arc" order="9" />
+    </link:definitionLink>
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/TransportationBusinessAcquisitionDetailsNarrative" xlink:title="00000043 - Disclosure - Transportation Business Acquisition (Details Narrative)" />
+    <link:definitionLink xlink:type="extended" xlink:role="http://patriottrans.com/role/KelsoPropertyAcquisitionDetailsNarrative" xlink:title="00000044 - Disclosure - Kelso Property Acquisition (Details Narrative)">
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementLineItems" xlink:label="loc_us-gaapStatementLineItems" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_StatementTable" xlink:label="loc_us-gaapStatementTable" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xbrldt:contextElement="segment" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapStatementTable" xlink:type="arc" order="10" xbrldt:closed="true" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesAxis" xlink:label="loc_us-gaapRealEstatePropertiesAxis" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_us-gaapStatementTable" xlink:to="loc_us-gaapRealEstatePropertiesAxis" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesDomain" xlink:label="loc_us-gaapRealEstatePropertiesDomain" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_us-gaapRealEstatePropertiesAxis" xlink:to="loc_us-gaapRealEstatePropertiesDomain" xlink:type="arc" order="20" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_RealEstatePropertiesDomain" xlink:label="loc_us-gaapRealEstatePropertiesDomain_10" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xbrldt:contextElement="segment" xlink:from="loc_us-gaapRealEstatePropertiesAxis" xlink:to="loc_us-gaapRealEstatePropertiesDomain_10" xlink:type="arc" order="30" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_KelsoMember" xlink:label="loc_PATRKelsoMember_0" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapRealEstatePropertiesDomain" xlink:to="loc_PATRKelsoMember_0" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_PaymentsToAcquireBuildings" xlink:label="loc_us-gaapPaymentsToAcquireBuildings_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapPaymentsToAcquireBuildings_30" xlink:type="arc" order="0" />
+      <link:loc xlink:type="locator" xlink:href="patr-20140630.xsd#PATR_BusinessAcquisitionNumberOfBuildings" xlink:label="loc_PATRBusinessAcquisitionNumberOfBuildings_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_PATRBusinessAcquisitionNumberOfBuildings_30" xlink:type="arc" order="1" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_AreaOfLand" xlink:label="loc_us-gaapAreaOfLand_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAreaOfLand_30" xlink:type="arc" order="2" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_AreaOfRealEstateProperty" xlink:label="loc_us-gaapAreaOfRealEstateProperty_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapAreaOfRealEstateProperty_30" xlink:type="arc" order="3" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles" xlink:label="loc_us-gaapBusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapBusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles_30" xlink:type="arc" order="4" />
+      <link:loc xlink:type="locator" xlink:href="http://xbrl.fasb.org/us-gaap/2013/elts/us-gaap-2013-01-31.xsd#us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedCurrentLiabilitiesOther" xlink:label="loc_us-gaapBusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedCurrentLiabilitiesOther_30" />
+      <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_us-gaapStatementLineItems" xlink:to="loc_us-gaapBusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedCurrentLiabilitiesOther_30" xlink:type="arc" order="5" />
+    </link:definitionLink>
+</link:linkbase>
