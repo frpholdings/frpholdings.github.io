@@ -60,9 +60,10 @@ a.button:hover {
 <br style="clear:both" />
 </div>
 
-
+<--
 {% assign items = site.data.news | sort: 'Date' | reverse %}
 
 {% for item in items %}
 ##### {{ item.Date | date: '%m/%d/%Y' }} - [{{ item.Title }}](/assets/{{item.File}})
 {% endfor %}
+-->
