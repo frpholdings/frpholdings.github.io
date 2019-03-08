@@ -2,6 +2,7 @@
 layout: default
 title: Corporate Governance Documents
 order: 4
+group: nav
 ---
 
 ### {{page.title}}
