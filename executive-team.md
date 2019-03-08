@@ -13,8 +13,7 @@ group: nav
 
 FRP Holdings, Inc., is a publicly traded company that is listed on the Nasdaq Stock Market. FRP Holdings, Inc., stock is traded under the symbol of "FRPH". All filings with the Securities and Exchange Commission are available under the Investor Relations page.
 
-**John D. Baker II** | **Executive Chairman**
-**Thompson S. Baker** | **Chief Executive Officer**
+**John D. Baker II** | **Executive Chairman / Chief Executive Officer**
 **John D. Milton Jr.** | **Executive Vice President, Treasurer, Chief Financial Officer and Secretary**
 **David H. deVilliers Jr.** | **President**
 **John D. Klopfenstein** | **Controller and Chief Accounting Officer**
