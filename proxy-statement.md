@@ -6,6 +6,8 @@ order: 20
 
 ### {{page.title}}
 
+- [2019 Proxy Card](/assets/frphProxyCard2019.pdf)
+- [2019 Proxy Statement](/assets/FRPH-ProxyStatement-2019.PDF)
 - [2018 Proxy Card](/assets/frphproxycard18.pdf)
 - [2018 Proxy Statement](/assets/frphproxy18.PDF)
 - [2017 Proxy Card](/assets/FRPH_Proxy_Card_2017.pdf)
