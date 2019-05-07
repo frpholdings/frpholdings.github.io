@@ -18,4 +18,3 @@ FRP Holdings, Inc., is a publicly traded company that is listed on the Nasdaq St
 **David H. deVilliers Jr.** | **President**
 **John D. Baker III** | **Chief Financial Officer and Treasurer**
 **John D. Klopfenstein** | **Controller and Chief Accounting Officer**
-
