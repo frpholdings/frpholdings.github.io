@@ -6,6 +6,7 @@ order: 20
 
 ### {{page.title}}
 
+- [Annual Meeting - 2020 Annual Shareholder Meeting](/assets/presentations/FRP_2020_Annual_Meeting_final.pdf)
 - [FRP Holdings Inc. Investor Presentation September 2019](/assets/presentations/Sept_2019_investor_presentation.pdf)
 - [Annual Meeting - 2019 Annual Shareholder Meeting](/assets/presentations/2019 Annual Meeting updated 5-8-19 Final.pdf)
 - [FRP Holdings Inc. Investor Presentation April 2019](/assets/presentations/2019-InvestorPresentationfinal.pdf)
